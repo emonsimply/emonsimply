@@ -19,3 +19,25 @@ A dedicated **MERN Stack Developer** committed to crafting high-performance and 
 * 🛠️ **Tech I Use:** JavaScript (ES6+), Tailwind CSS, REST APIs.
 * 🚀 **Current Focus:** Deepening my knowledge in **advanced Full-Stack patterns** and exploring **Cloud infrastructure**.
 * 💡 **Looking For:** **MERN Stack collaborations** and challenging projects to further my career as a **Cloud-Ready Developer**.
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+---
+
